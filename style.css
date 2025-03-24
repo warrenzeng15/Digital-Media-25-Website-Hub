@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	background-color: #105B9B;
+}
+img {
+  width:100%;
+  height:auto;
+}
+#title{
+	color: #a12b88;
+	background-color: #ae12ba;
+	border: 2px dotted;
+	border-color: #FFFFFF;
+}
+
+#footer{
+	color: #891f5d;
+	background-color: #7d177a;
+	border: 10px dashed;
+	border-color: #E87E23;
+}
+
+
+div {
+	border: 2px solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: white;
+}
